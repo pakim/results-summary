@@ -25,5 +25,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/pakim/results-summary/](https://github.com/pakim/results-summary/)
+- Live Site URL: [https://pakim.github.io/results-summary/](https://pakim.github.io/results-summary/)
